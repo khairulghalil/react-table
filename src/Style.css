@@ -1,0 +1,24 @@
+.btn {
+    width: 80px !important; 
+    margin: 2px !important;
+}
+.btnModal {
+    width: 180px !important; 
+    margin: 2px !important;
+}
+#modalView {
+    width: 500px !important;
+}
+#modalView .modal-body {
+    font-size: 14px !important;
+}
+.modalForm {
+    margin-left: 30px !important;
+    margin-right: 30px !important;
+}
+.modalForm label{
+    padding: 3px !important;
+}
+.modalForm label{
+    padding: 3px !important;
+}
